@@ -7,16 +7,16 @@ Para acceder al tablero visita su enlace en Tableau Public: https://public.table
 Vista previa del dashboard:
 
 ### Detalles de la encuesta
-<img src="https://github.com/MiguelEconomics/GEIH-Viviendas-2024/blob/main/Images/GEIH%201.png" alt="Dashboard de GEIH Viviendas 2024" width="400">
+<img src="https://github.com/MiguelEconomics/GEIH-Viviendas-2024/blob/main/Images/GEIH%201.png" alt="Dashboard de GEIH Viviendas 2024" width="800">
 
 ### Perfil de los hogares
-<img src="https://github.com/MiguelEconomics/GEIH-Viviendas-2024/blob/main/Images/GEIH%202.png" alt="Perfil de los hogares" width="400">
+<img src="https://github.com/MiguelEconomics/GEIH-Viviendas-2024/blob/main/Images/GEIH%202.png" alt="Perfil de los hogares" width="800">
 
 ### Materiales de las viviendas
-<img src="https://github.com/MiguelEconomics/GEIH-Viviendas-2024/blob/main/Images/GEIH%203.png" alt="Materiales de las viviendas" width="400">
+<img src="https://github.com/MiguelEconomics/GEIH-Viviendas-2024/blob/main/Images/GEIH%203.png" alt="Materiales de las viviendas" width="800">
 
 ### Bancarización y servicios públicos
-<img src="https://github.com/MiguelEconomics/GEIH-Viviendas-2024/blob/main/Images/GEIH%204.png" alt="Bancarización y servicios públicos" width="400">
+<img src="https://github.com/MiguelEconomics/GEIH-Viviendas-2024/blob/main/Images/GEIH%204.png" alt="Bancarización y servicios públicos" width="800">
 
 
 ## Descripción
