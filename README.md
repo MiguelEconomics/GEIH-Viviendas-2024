@@ -4,6 +4,11 @@ Este repositorio contiene un dashboard interactivo desarrollado en Tableau que p
 
 Para acceder al tablero visita su enlace en Tableau Public: https://public.tableau.com/views/GranEncuestaIntegradadeHogares2024Viviendas/Home?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
+Vista previa del dashboard:
+
+![Detalles de la encuesta](https://github.com/MiguelEconomics/GEIH-Viviendas-2024/blob/main/Images/GEIH%201.png)
+
+
 ## Descripción
 
 La Gran Encuesta Integrada de Hogares (GEIH) es una importante fuente de información estadística en Colombia que abarca una amplia gama de temas relacionados con los hogares y la población. Este repositorio se centra en los datos recopilados en el primer trimestre del año 2024, específicamente en el ámbito de las viviendas.
