@@ -1,0 +1,32 @@
+PERIODO
+DIRECTORIO
+CLASE : 1 Urbano 2 Rural
+Departamento
+Tipo de vivienda
+P4010: Paredes
+P4020: Pisos
+P4030S1: Electricidad
+P4030S2: Gas natural
+P4030S3: Alcantarillado 
+P4030S4: Recolección de basuras
+P4030S5: Acueducto
+P70: HogaresxVivienda
+P5000: Cuartos totales
+P5010: Cuartos para dormir
+P5020: Sanitario
+P5040: Eliminación basura
+P5050: Fuente de Agua
+P5090: Tenencia vivienda
+P5090S1: Otra vivienda
+P5140: Arriendo
+P5222S1 y P5222S2: Bancarización
+CCorriente CAhorros
+P5222S3: CDT
+P5222S4: Préstamo para compra de vivienda
+P5222S5: Préstamo para compra de vehículo
+P5222S6: Préstamo de libre inversión
+P5222S7: Tarjeta de crédito
+P5222S8: Otro
+P5222S9: Ninguno
+P5222S10: No sabe
+P6008: Total de personas en el hogar
